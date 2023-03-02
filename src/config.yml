@@ -95,12 +95,12 @@ distance: 4.5
 # |Biggest distance from player to block (Block)
 # 默认|Default: 4.5
 
-destroy: 40
+destroy: 999999999999999999999
 # |玩家喷漆自动消失时间 (秒)
 # |Spray self remove time (Second)
 # 默认|Default: 40
 
-spray_cooldown: 30
+spray_cooldown: 15
 # |玩家喷漆的时间间隔 (秒)
 # |Cool down between player spray (Second)
 # 默认|Default: 30
